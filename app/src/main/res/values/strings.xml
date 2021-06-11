@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">7-Dice Simulator</string>
+    <string name="push_roll_to_roll_the_dice">Push Roll to roll the dice</string>
+    <string name="roll">Roll!</string>
+    <string name="dice">Dice</string>
+    <string name="results">You rolled a</string>
+    <string name="select_dice">Select Dice:</string>
+    <string name="sound">Sound</string>
+</resources>
